@@ -1,5 +1,5 @@
 # PHPWAPublicHolidays
-PHP Code that calculates public holidays for a year
+PHP Code that calculates public holidays for a year for Perth, Western Australia
 
 
 This program is free software: you can redistribute it and/or modify
